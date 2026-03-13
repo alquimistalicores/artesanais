@@ -31,21 +31,21 @@ const categories: Category[] = [
         subtitle: "O presente perfeito",
         description:
           "Experiência artesanal pronta para presentear com elegância.",
-        images: ["/images/sabores/kit-presenteavel.jpeg"],
+        images: ["/images/sabores/kit-presenteavel.jpeg", "/images/sabores/kit-presenteavel-2.jpg"],
       },
       {
         name: "Kit Degustação",
         subtitle: "Uma jornada pelos sabores",
         description:
           "Seleção de elixires para explorar sabores e descobrir preferidos.",
-        images: ["/images/sabores/kit-degustacao.jpeg"],
+        images: ["/images/sabores/kit-degustacao.jpeg", "/images/sabores/kit-degustacao-2.jpg"],
       },
       {
         name: "Poção da Prosperidade",
         subtitle: "Leite e Especiarias",
         description:
           "Cremoso e aromático, com notas quentes e final marcante.",
-        images: ["/images/sabores/leite-especiarias.jpg"],
+        images: ["/images/sabores/leite-especiarias.jpg", "/images/sabores/leite-especiarias-2.jpg"],
       },
     ],
   },
@@ -60,21 +60,21 @@ const categories: Category[] = [
         subtitle: "Chocolate Cremoso",
         description:
           "Cremoso e intenso, com textura aveludada e sabor marcante.",
-        images: ["/images/sabores/chocolate.png"],
+        images: ["/images/sabores/chocolate.png", "/images/sabores/chocolate-2.jpg"],
       },
       {
         name: "Poção do Doce Sossego",
         subtitle: "Maracujá Cremoso",
         description:
           "Fresco e sedoso, une acidez vibrante à cremosidade delicada.",
-        images: ["/images/sabores/maracuja-cremoso.png"],
+        images: ["/images/sabores/maracuja-cremoso.png", "/images/sabores/maracuja-cremoso-2.jpg"],
       },
       {
         name: "Poção do Doce Deleite",
         subtitle: "Doce de Leite",
         description:
           "Suave e cremoso, com doçura equilibrada e toque artesanal.",
-        images: ["/images/sabores/doce-de-leite.png"],
+        images: ["/images/sabores/doce-de-leite.png", "/images/sabores/doce-de-leite-2.jpg"],
       },
     ],
   },
@@ -89,21 +89,21 @@ const categories: Category[] = [
         subtitle: "Abacaxi",
         description:
           "Tropical e refrescante, com leve acidez e final suave.",
-        images: ["/images/sabores/abacaxi.png"],
+        images: ["/images/sabores/abacaxi.png", "/images/sabores/abacaxi-2.jpg"],
       },
       {
         name: "Poção da Travessura",
         subtitle: "Banana",
         description:
           "Doçura natural e textura macia, com sabor acolhedor e envolvente.",
-        images: ["/images/sabores/banana.png"],
+        images: ["/images/sabores/banana.png", "/images/sabores/banana-2.jpg"],
       },
       {
         name: "Poção Néctar Místico",
         subtitle: "Butiá",
         description:
           "Exótico e levemente cítrico, com personalidade vibrante e final surpreendente.",
-        images: ["/images/sabores/butia.png"],
+        images: ["/images/sabores/butia.png", "/images/sabores/butia-2.png"],
       },
       {
         name: "Poção da Inspiração",
@@ -120,28 +120,28 @@ const categories: Category[] = [
         subtitle: "Canela",
         description:
           "Aroma quente e especiado, com sabor acolhedor e levemente adocicado.",
-        images: ["/images/sabores/canela.png"],
+        images: ["/images/sabores/canela.png", "/images/sabores/canela-2.jpg"],
       },
       {
         name: "Poção da Conexão",
         subtitle: "Figo",
         description:
           "Doce profundo e elegante, com notas maduras e final envolvente.",
-        images: ["/images/sabores/figo.png"],
+        images: ["/images/sabores/figo.png", "/images/sabores/figo-2.jpg"],
       },
       {
         name: "Poção Silvestre",
         subtitle: "Jabuticaba",
         description:
           "Frutado intenso e levemente ácido, com equilíbrio e suavidade marcante.",
-        images: ["/images/sabores/jabuticaba.png"],
+        images: ["/images/sabores/jabuticaba.png", "/images/sabores/jabuticaba-2.jpg"],
       },
       {
         name: "Poção da Serenidade",
         subtitle: "Maracujá",
         description:
           "Vibrante e equilibrado, combina acidez fresca com doçura delicada.",
-        images: ["/images/sabores/maracuja.png"],
+        images: ["/images/sabores/maracuja.png", "/images/sabores/maracuja-2.jpg"],
       },
     ],
   },
